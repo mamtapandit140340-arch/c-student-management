@@ -52,7 +52,6 @@ int main()
          scanf("%d",&s[count].roll);
           printf("NAME:");
          scanf("%s",&s[count].name);
-        // fgets(s[count].name);
           printf("MARKS:");
          scanf("%f",&s[count].marks);
          printf("Enter date of birth:");
